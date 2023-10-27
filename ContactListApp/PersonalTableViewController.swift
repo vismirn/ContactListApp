@@ -7,7 +7,7 @@
 
 import UIKit
 
-class PersonalTableViewController: UITableViewController {
+final class PersonalViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
